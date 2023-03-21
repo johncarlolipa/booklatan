@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "When The Elephant Dance",
+        "price": 449,
+        "image": { "fields": { "file": { "url": "./images/image-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Insurrecto",
+        "price": 599,
+        "image": { "fields": { "file": { "url": "./images/images(2).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "The Land of Forgotten Girls",
+        "price": 199,
+        "image": { "fields": { "file": { "url": "./images/images(3).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "The Mango Bride",
+        "price": 299,
+        "image": { "fields": { "file": { "url": "./images/images(4).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Reportage on Lovers",
+        "price": 889,
+        "image": { "fields": { "file": { "url": "./images/images(5).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "America Is not the heart",
+        "price": 399,
+        "image": { "fields": { "file": { "url": "./images/images(6).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Smaller and Smaller Circles",
+        "price": 459,
+        "image": { "fields": { "file": { "url": "./images/images(7).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Macarthur",
+        "price": 329,
+        "image": { "fields": { "file": { "url": "./images/images(8).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Para sa Hopeless Romantic",
+        "price": 449,
+        "image": { "fields": { "file": { "url": "./images/images(9).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "When the elephants dance",
+        "price": 489,
+        "image": { "fields": { "file": { "url": "./images/images(10).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "noli me tangere",
+        "price": 759,
+        "image": { "fields": { "file": { "url": "./images/images(11).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "the woman who had two navels and tales of the trophical gothic",
+        "price": 739,
+        "image": { "fields": { "file": { "url": "./images/images(12).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "patron saints of nothing",
+        "price": 649,
+        "image": { "fields": { "file": { "url": "./images/images(13).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "i was their american dream",
+        "price": 599,
+        "image": { "fields": { "file": { "url": "./images/images(14).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "mythic world",
+        "price": 549,
+        "image": { "fields": { "file": { "url": "./images/images(15).png" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "on location",
+        "price": 299,
+        "image": { "fields": { "file": { "url": "./images/images(16).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "sophie go's lonely hearts club",
+        "price": 345,
+        "image": { "fields": { "file": { "url": "./images/images(17).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "the holiday switch",
+        "price": 699,
+        "image": { "fields": { "file": { "url": "./images/images(18).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "in the country",
+        "price": 259,
+        "image": { "fields": { "file": { "url": "./images/images(19).jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "title": "the farm",
+        "price": 459,
+        "image": { "fields": { "file": { "url": "./images/images(20).jpg" } } }
+      }
+    }
+  ]
+}
