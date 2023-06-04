@@ -16,7 +16,7 @@
 body {
   color: var(--mainBlack);
   background: var(--mainWhite);
-  font-family: "Lato", sans-serif;
+  font-family: "Alegreya Sans", sans-serif;
 }
 /* --------------- Navbar ---------------- */
 .navbar {
@@ -41,10 +41,11 @@ body {
 .nav-icon {
   font-size: 1.5rem;
 }
+
 .bag-btn {
-    position: relative;
-    cursor: pointer;
-  }
+  position: relative;
+  cursor: pointer;
+}
 .cart-items {
   position: absolute;
   top: -8px;
@@ -117,19 +118,19 @@ body {
   overflow: hidden;
 }
 .cart-btn {
-    position: absolute;
-    top: 70%;
-    right: 0;
-    background: var(--primaryColor);
-    border: none;
-    text-transform: uppercase;
-    padding: 0.5rem 0.75rem;
-    letter-spacing: var(--mainSpacing);
-    font-weight: bold;
-    transition: var(--mainTransition);
-    transform: translateX(101%);
-    cursor: pointer;
-  }
+  position: absolute;
+  top: 70%;
+  right: 0;
+  background: var(--primaryColor);
+  border: none;
+  text-transform: uppercase;
+  padding: 0.5rem 0.75rem;
+  letter-spacing: var(--mainSpacing);
+  font-weight: bold;
+  transition: var(--mainTransition);
+  transform: translateX(101%);
+  cursor: pointer;
+}
 .cart-btn:hover {
   color: var(--mainWhite);
 }
@@ -259,3 +260,62 @@ body {
 }
 
 /* --------------- End of Cart ---------------- */
+
+/* footer */
+.footer {
+  background: #e2afaf;
+  padding: 30px 0px;
+  font-family: "Play", sans-serif;
+  text-align: center;
+}
+
+.footer .row {
+  width: 100%;
+  margin: 1% 0%;
+  padding: 0.6% 0%;
+  color: rgb(0, 0, 0);
+  font-size: 0.8em;
+  align-items: center;
+  display: inline;
+}
+
+.footer .row a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  transition: 0.5s;
+}
+
+.footer .row a:hover {
+  color: #fff;
+}
+
+.footer .row ul {
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.footer .row ul li {
+  display: inline-block;
+  margin: 0px 30px;
+}
+
+.footer .row a i {
+  font-size: 2em;
+  margin: 0% 1%;
+}
+
+@media (max-width: 720px) {
+  .footer {
+    text-align: left;
+    padding: 5%;
+  }
+  .footer .row ul li {
+    display: block;
+    margin: 10px 0px;
+    text-align: left;
+  }
+  .footer .row a i {
+    margin: 0% 3%;
+  }
+}
